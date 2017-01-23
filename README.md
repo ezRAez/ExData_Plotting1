@@ -1,3 +1,9 @@
+## Student Note:
+
+I had to move the `rplots` files from my other clone - I could not push 
+my previous attempt due to size of the txt file, so I had to remove it 
+from the git history.
+
 ## Introduction
 
 This assignment uses data from
